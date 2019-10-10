@@ -3,4 +3,4 @@ def reverse_each_word(string)
   for x in new_array
     x = x.reverse
   new_array
-  
+end
